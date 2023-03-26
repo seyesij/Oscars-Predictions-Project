@@ -1,0 +1,11 @@
+﻿year_film,film,award_year,imdb_rating,rt_rating,rt_audience_score,rt_status,runtime_mins,content_rating,bafta_nom,bafta_win,sag_nom,sag_win,gg_nom,gg_win,oscar_winner,Oscarstat_totalnoms,Nom_DGA,Win_DGA,Genre_action,Genre_biography,Genre_crime,Genre_comedy,Genre_drama,Genre_horror,Genre_fantasy,Genre_sci-fi,Genre_mystery,Genre_music,Genre_romance,Genre_history,Genre_war,Genre_filmnoir,Genre_thriller,Genre_adventure,Genre_family,Genre_sport,Genre_western
+2022,Top Gun: Maverick,2023,8.3,96,99,certified-fresh,130,PG-13,0,0,0,0,1,0,0,6,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022,Triangle of Sadness,2023,7.4,71,68,fresh,147,R,0,0,0,0,1,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022,Elvis,2023,7.3,77,94,certified-fresh,160,PG-13,1,0,0,0,1,0,0,8,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2022,Women Talking,2023,7,90,80,certified-fresh,104,PG-13,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022,Everything Everywhere All at Once,2023,7.9,94,86,certified-fresh,139,R,1,0,1,1,1,0,1,11,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2022,The Fabelmans,2023,7.6,92,83,certified-fresh,151,PG-13,0,0,1,0,1,1,0,7,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022,Tar,2023,7.5,91,74,certified-fresh,158,R,1,0,0,0,1,0,0,6,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2022,All Quiet on the Western Front,2023,7.8,89,90,certified-fresh,147,R,1,1,0,0,0,0,0,9,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2022,The Banshees of Inisherin,2023,7.7,96,75,certified-fresh,114,R,1,0,1,0,1,1,0,9,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022,Avatar: The Way of Water,2023,7.8,76,92,certified-fresh,192,PG-13,0,0,0,0,1,0,0,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
