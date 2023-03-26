@@ -12,7 +12,7 @@ Used:
   
  ## Data
  The dataset is built from various public sources:
-	* [Kaggle Oscars, Golden Globe, SAG, BAFTA datasets](https://www.kaggle.com/datasets/unanimad)
+  * [Kaggle Oscars, Golden Globe, SAG, BAFTA datasets](https://www.kaggle.com/datasets/unanimad)
   * [Kaggle Oscar dataset](https://www.kaggle.com/datasets/matevaradi/oscar-prediction-dataset)
   * [IMDB dataset](https://www.imdb.com/interfaces/)
   * [Rotten Tomatoes dataset](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)
