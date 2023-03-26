@@ -32,6 +32,6 @@ An initial exploratory data analysis was performed using [Tableau](https://publi
 - Precision and Recall
 
 ## Conclusion
-The model did good when predicting oscar winners, it had an accuracy of 93% with a precision score of 71% and recall score of 83%. The model was also tested on new data to predict the Academy Awards best picture winner for the 2023 ceremony. It accurately predicted Everything Everywhere All at Once as the winner. 
+The model did good when predicting oscar winners, it had an accuracy of 93% with a precision score of 71% and recall score of 83%. The model was also tested on new data to predict the 2023 Academy Awards best picture winner. It accurately predicted Everything Everywhere All at Once as the winner. 
 
 For future ideas we can look into adding more useful features to see if we can further improve the accuracy of our model.
