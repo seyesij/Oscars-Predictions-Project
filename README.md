@@ -1,6 +1,6 @@
 # Oscars Prediction Project
 
-Making predictions using Machine Learning. I use Logistic Regression to predict the Oscar winners of the Best Picture category.
+Making predictions using Machine Learning. A Logistic Regression is used to predict the Oscar winners of the Best Picture category.
 
 Used:
 
